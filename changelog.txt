@@ -1,0 +1,7 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2023-11-11
+  Info:
+    - Initial Release
+  Features:
+    - Removes the power requirements for combinators and programmable speaker
