@@ -5,3 +5,9 @@ Date: 2023-11-11
     - Initial Release
   Features:
     - Removes the power requirements for combinators and programmable speaker
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2024-11-02
+  Info:
+    - Updated for Factorio v2.0 (and Space Age)
+
