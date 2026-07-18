@@ -10,4 +10,11 @@ Version: 1.1.0
 Date: 2024-11-02
   Info:
     - Updated for Factorio v2.0 (and Space Age)
+---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: 2026-07-12
+  Info:
+    - Updated for Factorio v2.1. No functional changes were needed: setting energy_source to
+      type "void" still fully overrides the combinators' power draw, even after 2.1 changed
+      arithmetic/decider/selector combinators from secondary to primary energy consumers.
 
